@@ -7,3 +7,4 @@ Awesome Git!
 Creating a new brach is very quicki & simple.
 Creating a new brach is very quick and simple.
 Hello there! test for --no-ff
+test for stash
